@@ -1,0 +1,18 @@
+English
+
+Important
+This model was produced for the technology website SatellaSoft. You can use this model in their commercial or personal projects provided they give credit to the author, otherwise, remove the model of your project.
+
+This model is the end result of a series of architectural modeling for games, the link to it this below.
+
+Português
+
+Importante
+Este modelo foi produzido para o portal de tecnologia SatellaSoft.Você pode utilizar este modelo em seus projetos comerciais ou pessoais desde que se atribua os créditos ao autor, caso contrário, remova o modelo de seu projeto.
+
+Este modelo é o resultado final de uma série de modelagem arquitetônica para games, o link para ela esta logo abaixo.
+
+
+Youtube: https://www.youtube.com/playlist?list=PLuJ48A-nezofBEwCHBgkwXRYDwB_tKU28
+SatellaSoft: http://www.satellasoft.com
+Author/Autor: Gunnar Correa -www.gunnarcorrea.com

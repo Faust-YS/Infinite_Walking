@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.orientationtest.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\IMLabPC_1912\\Desktop\\宇珊\\LDR_0.2b_InfiniteWalk_Ver3.0\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Legend_of_Dark_Rose [Testing]"
+        }
+      }
+    }
+  ]
+}
